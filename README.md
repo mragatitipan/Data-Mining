@@ -1,2 +1,2 @@
 # Data-Mining
-Machine Learning - Deep Learning - Blockchain
+EDA (Exploratory Data Analysis) dan Preprocessing terhadap dataset PPG Sinyal dan Prediksi dengan Machine Learning Regresi Linear
